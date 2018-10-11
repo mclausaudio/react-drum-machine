@@ -1,0 +1,6 @@
+body{
+      height:100vh;
+  background:url('https://images.unsplash.com/photo-1517273006195-51fa3364bce2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8771b5f54d5f47714146ec79f26b692a&auto=format&fit=crop&w=666&q=80');
+      background-repeat: no-repeat;
+    background-size: cover;
+}
